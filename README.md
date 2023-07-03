@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+reference links:
+https://morioh.com/p/17131643d416?f=5c21fb01c16e2556b555ab32
+
+angular CLI used commands:
+
+ng g c shared/components/main --skip-tests
+ng g c shared/components/header --skip-tests
+ng g c dashboard/ --skip-tests
+ng g c Profile/ --skip-tests
